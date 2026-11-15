@@ -1,4 +1,4 @@
-# Example Mod
+# How To Be A Loh
 
 ## Setup
 
